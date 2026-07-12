@@ -1,0 +1,2 @@
+# Fundamentos-da-Arquitetura-e-Urbanismo
+O notebookLM de Conhecimenetos gerais sobre Arquitetura e Urbanismo, tem como objetivo ensinar de forma simples e detalhada sobre os pilares fundamentais da arquitetura e urbanismo, curiosidades, detalhar sobre as aréas de atuação, mercado de trabalho, perfil do arquiteto. De modo geral ele é destinado para estudos e para conhecer melhor a Arquitetura Urbanista.
